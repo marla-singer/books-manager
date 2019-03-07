@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "444456664306",
+    "firebase_url": "https://books-manager-f8c37.firebaseio.com",
+    "project_id": "books-manager-f8c37",
+    "storage_bucket": "books-manager-f8c37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444456664306:android:a08b062fcc2f108b",
+        "android_client_info": {
+          "package_name": "com.bookwmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444456664306-ebot51r78f7ktbs3vtf75ah0t060vjgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHuA2q1LeElOH_-kxk5K6GbVz318XkJuE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
